@@ -1,0 +1,194 @@
+{
+  "title": "Agenda - EMEA Solution Team Meeting",
+  "location": "Belden office, 20 Place Louis Pradel 69001 Lyon",
+  "days": [
+    {
+      "day": "Monday the 09th of March",
+      "attendees": [
+        "Stefano De Feo",
+        "Joao Martins",
+        "Ciaran Burns",
+        "Jordy Corten",
+        "Rick Van Otterdijk",
+        "Philipp Eberhardt",
+        "Benoit Paredes",
+        "Mattia Lupis"
+      ],
+      "slots": [
+        {
+          "time": "16:00 - 16:30",
+          "topic": "Welcome at the Office",
+          "who": "All"
+        },
+        {
+          "time": "16:30 - 17:30",
+          "topic": "Welcoming and general EMEA update",
+          "who": "Benoit"
+        },
+        {
+          "time": "17:30 - 19:30",
+          "topic": "Team Building - EVA Battle Arena Lyon",
+          "who": "All"
+        },
+        {
+          "time": "19.00 - 22:00",
+          "topic": "Dinner - Brasserie Bocuse Le Nord - https://www.maisons-bocuse.com/en/our-brasseries-lyon-paris-annecy/brasserie-le-nord-traditionnal-restaurant-lyon/",
+          "who": "All"
+        }
+      ]
+    },
+    {
+      "day": "Tuesday the 10th of March",
+      "attendees": [
+        "Stefano De Feo",
+        "Joao Martins",
+        "Ciaran Burns",
+        "Jordy Corten",
+        "Rick Van Otterdijk",
+        "Philipp Eberhardt",
+        "Benoit Paredes",
+        "Mattia Lupis"
+      ],
+      "slots": [
+        {
+          "time": "8:00 - 8:45",
+          "topic": "Discrete Business Update (Q1 review, Success, Customer Engagement, FY26 Outlook)",
+          "who": "Jordy"
+        },
+        {
+          "time": "8.45 - 9.30",
+          "topic": "DC & Hospitality Business Update (Q1 review, Success, Customer Engagement, FY26 Outlook)",
+          "who": "Joao"
+        },
+        {
+          "time": "9.30 - 10.30",
+          "topic": "SCS Initiatives & Alignment accross verticals market",
+          "who": "Philipp"
+        },
+        {
+          "time": "10.30 - 11.00",
+          "topic": "Break",
+          "who": ""
+        },
+        {
+          "time": "11.00 - 12.00",
+          "topic": "Commercial Operation - Update on Project DoA & Alignment",
+          "who": "Quentin"
+        },
+        {
+          "time": "12.00 - 13.00",
+          "topic": "Lunch",
+          "who": "All"
+        },
+        {
+          "time": "13:00 - 15:00",
+          "topic": "Growth Marketing Initiatives & Workshop : How do we grow our funnel together ?",
+          "who": "Rick + All"
+        },
+        {
+          "time": "15:00-15:30",
+          "topic": "Break",
+          "who": "All"
+        },
+        {
+          "time": "15:30 - 16.30",
+          "topic": "Market Intelligence IDC - EMEA Trends",
+          "who": "IDC Business Analyst"
+        },
+        {
+          "time": "16:30 - 17.30",
+          "topic": "Channel Initiatives & Alignment accross vertical market",
+          "who": "Mattia"
+        },
+        {
+          "time": "17.30 - 18.30",
+          "topic": "Free time for emails, calls…",
+          "who": "All"
+        },
+        {
+          "time": "19.00 - 22.00",
+          "topic": "Dinner - Brume - https://brume-restaurant.fr/",
+          "who": "All"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday the 11th of March",
+      "attendees": [
+        "Stefano De Feo",
+        "Joao Martins",
+        "Ciaran Burns",
+        "Jordy Corten",
+        "Rick Van Otterdijk",
+        "Philipp Eberhardt",
+        "Benoit Paredes",
+        "Mattia Lupis",
+        "Aurelien Fabre",
+        "Quentin Balaye",
+        "Ashwani Singh"
+      ],
+      "slots": [
+        {
+          "time": "8:00 - 8:45",
+          "topic": "Transportation Business Update (Q1 review, Success, Customer Engagement, FY26 Outlook)",
+          "who": "Stefano"
+        },
+        {
+          "time": "8.45 - 9.30",
+          "topic": "MEA Business Update (Q1 review, Success, Customer Engagement, FY26 Outlook)",
+          "who": "Feby"
+        },
+        {
+          "time": "9.30 - 10.30",
+          "topic": "Mega Project Initiative - How do we better follow and support our big fishs ?",
+          "who": "Pierre"
+        },
+        {
+          "time": "10.30 - 11.00",
+          "topic": "Break",
+          "who": ""
+        },
+        {
+          "time": "11.00 - 12.00",
+          "topic": "Launch Program Update",
+          "who": "Valentina & Franziska"
+        },
+        {
+          "time": "12.00 - 13.00",
+          "topic": "Lunch",
+          "who": "All"
+        },
+        {
+          "time": "13.00 - 13.45",
+          "topic": "Energy Business Update (Q1 review, Success, Customer Engagement, FY26 Outlook)",
+          "who": "Ciaran"
+        },
+        {
+          "time": "13:45 - 15:00",
+          "topic": "Workshop Talent Discussion & Hirings - How do we keep, develop and bring new talent to solution sales organization",
+          "who": "Benoit & All"
+        },
+        {
+          "time": "15:00-15:30",
+          "topic": "Break",
+          "who": "All"
+        },
+        {
+          "time": "15:30 - 17.30",
+          "topic": "Innovation Workshop - How do we reconnect Innovation and our Sales organization",
+          "who": "Ashwani & All"
+        },
+        {
+          "time": "17.30 - 18.30",
+          "topic": "Free time for emails, calls…",
+          "who": "All"
+        },
+        {
+          "time": "19.00 - 22.00",
+          "topic": "Dinner - Wine You Want - https://wineyouwant.com/",
+          "who": "All"
+        }
+      ]
+    }
+  ]
+}
